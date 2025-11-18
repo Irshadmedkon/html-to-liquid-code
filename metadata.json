@@ -1,0 +1,5 @@
+{
+  "name": "Live Code to Liquid Converter",
+  "description": "A web-based tool that allows users to input HTML, CSS, and JavaScript, see a live preview, and convert the HTML code into the Liquid templating language using the Gemini API.",
+  "requestFramePermissions": []
+}
